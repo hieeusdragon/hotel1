@@ -1,0 +1,2 @@
+admin: duong
+pass: 123
